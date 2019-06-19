@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cristian/Desktop/PC4-POO/Matriz.h
+vector
+-
+iostream
+-
+
+/home/cristian/Desktop/PC4-POO/main.cpp
+iostream
+-
+vector
+-
+Matriz.h
+/home/cristian/Desktop/PC4-POO/Matriz.h
+ctime
+-
+
