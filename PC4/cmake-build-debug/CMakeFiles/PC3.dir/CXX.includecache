@@ -6,10 +6,12 @@
 
 #IncludeRegexTransform: 
 
-/home/cristian/Desktop/PC4-POO/Matriz.h
+/home/cristian/Desktop/PC4-POO/Concurrente.h
 vector
 -
 iostream
+-
+sys/time.h
 -
 
 /home/cristian/Desktop/PC4-POO/main.cpp
@@ -17,8 +19,8 @@ iostream
 -
 vector
 -
-Matriz.h
-/home/cristian/Desktop/PC4-POO/Matriz.h
+Concurrente.h
+/home/cristian/Desktop/PC4-POO/Concurrente.h
 ctime
 -
 

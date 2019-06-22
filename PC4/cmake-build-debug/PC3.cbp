@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/cristian/Desktop/PC4-POO/Matriz.h">
+		<Unit filename="/home/cristian/Desktop/PC4-POO/Concurrente.h">
 			<Option target="PC3"/>
 		</Unit>
 		<Unit filename="/home/cristian/Desktop/PC4-POO/main.cpp">
